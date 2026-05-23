@@ -1,4 +1,7 @@
 # Customer-Shopping-Behavior-Analysis
+## 📷 Dashboard Preview
+
+![Power BI Dashboard](images/dashboard.png)
 
 ---
 
