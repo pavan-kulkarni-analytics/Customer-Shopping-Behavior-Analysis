@@ -54,6 +54,4 @@ Example:
 SELECT gender, SUM(purchase_amount) AS revenue
 FROM customer
 GROUP BY gender;
-# Customer Shopping Behavior Analysis
 
-![Project Dashboard](dashboard.png)
